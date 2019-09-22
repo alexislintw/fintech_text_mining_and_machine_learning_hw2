@@ -43,8 +43,8 @@
 
 
 ### 檔案說明
-- 抓取Google Search的『台積電』搜尋結果。[爬蟲程式](./Google_Search_%E5%8F%B0%E7%A9%8D%E9%9B%BB.ipynb)
-- 抓取完整的新聞內容。[爬蟲程式](./crawler_ctee_%E5%8F%B0%E7%A9%8D%E9%9B%BB.ipynb)
-- 篩取標注詞與股價驗證。[分析程式](./analysis_news_terms_by_stock_price.ipynb)
+- 抓取Google Search的『台積電』搜尋結果。爬蟲程式請見[Google_Search_台積電.ipynb](./Google_Search_%E5%8F%B0%E7%A9%8D%E9%9B%BB.ipynb)
+- 抓取完整的新聞內容。爬蟲程式請見[crawler_ctee_台積電.ipynb](./crawler_ctee_%E5%8F%B0%E7%A9%8D%E9%9B%BB.ipynb)
+- 篩取標注詞與股價驗證。分析程式請見[analysis_news_terms_by_stock_price.ipynb](./analysis_news_terms_by_stock_price.ipynb)
 
 
